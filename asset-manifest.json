@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.89a0a662.css",
+    "main.js": "/react-gh-pages/static/js/main.e9ca7e57.js",
+    "static/media/Netflix_Logo_RGB.png": "/react-gh-pages/static/media/Netflix_Logo_RGB.f4070143e1f521da82a1.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.89a0a662.css.map": "/react-gh-pages/static/css/main.89a0a662.css.map",
+    "main.e9ca7e57.js.map": "/react-gh-pages/static/js/main.e9ca7e57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a0a662.css",
+    "static/js/main.e9ca7e57.js"
+  ]
+}
