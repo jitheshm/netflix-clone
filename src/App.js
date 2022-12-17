@@ -4,6 +4,7 @@ import Banner from "./Components/Banner/Banner";
 import Footer from "./Components/Footer/Footer";
 import Navbar from "./Components/Navbar/Navbar";
 import Rowpost from "./Components/RowPost/Rowpost";
+import {action} from "../src/constants/constant"
 
 function App() {
   return (
@@ -11,8 +12,8 @@ function App() {
       <Navbar/>
       <section className="container-fluid">
       <Banner/>
-      <Rowpost/>
-      <Rowpost/>
+      <Rowpost title="Get In On the Action" url={action}/>
+      
       <Footer/>
       </section>
     </div>
