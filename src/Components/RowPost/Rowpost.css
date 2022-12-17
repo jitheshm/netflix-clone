@@ -28,6 +28,7 @@
   .card-body {
     display: flex;
     justify-content: center;
+    max-height: 50px;
   }
   
   .row-data::-webkit-scrollbar {
