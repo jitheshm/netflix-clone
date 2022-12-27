@@ -15,7 +15,7 @@ function App() {
       <Rowpost title="Get In On the Action" url={action}/>
       <Rowpost title="Drama" url={Drama}/>
       <Rowpost title="Romance" url={Romance}/>
-      <Rowpost title="Animantion" url={Animation}/>
+      <Rowpost title="Animation" url={Animation}/>
       <Rowpost title="Comedy" url={comedy}/>
       <Footer/>
       </section>
